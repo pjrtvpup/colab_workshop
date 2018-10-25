@@ -1,1 +1,45 @@
-about-me.css
+body {
+	background-color: white;
+	text-align: center;
+}
+
+.header {
+
+	display: block;
+	position: relative;	
+	font-family:didot;
+	margin-bottom: 70px;
+}
+
+.first-section {
+	max-height: 400px;
+	max-width: 700px;
+	position: relative;
+	margin:auto;
+}
+
+p {
+	font-family: didot;
+	font-size: 20px;
+	font-color: black;
+}
+
+.disclosure {
+	margin:auto;
+	margin-top: 40px;
+	max-width: 700px;
+	font-size: 12px;
+}
+
+
+h2 {
+	text-align: center;
+	font-color: black;
+}
+
+img {
+ 	width:35%;
+ 	height: 40%;
+ 	margin: auto;
+ 	position: relative;
+}
